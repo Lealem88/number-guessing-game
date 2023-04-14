@@ -11,3 +11,7 @@ def main(): #function
             print("Too high")
             continue
 
+        if guess < number:
+            print("Too low")
+            continue
+
