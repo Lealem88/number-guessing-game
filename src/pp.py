@@ -19,3 +19,7 @@ def main(): #function
             print("Correctly guessed")
             break
 
+
+if __name__ == "__main__":
+    main()
+
